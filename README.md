@@ -83,7 +83,6 @@ For any questions or feedback, open an issue or contact me directly.
 # 🎵 Music Store SQL Analysis Project
 
 [![SQL](https://img.shields.io/badge/Language-SQL-blue.svg)](https://www.mysql.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
 [![Data Source](https://img.shields.io/badge/Data-Sample%20DB-orange.svg)]()
 
@@ -108,8 +107,8 @@ This project explores a sample Music Store database using SQL. It answers a vari
 
 Below is the Entity Relationship Diagram representing the schema of the music store database:
 
-![ER Diagram](path/to/your/er-diagram.png)  
-*Replace the image path above with the actual path after uploading the ER diagram to your GitHub repo.*
+![ER Diagram](https://github.com/jha22sumit/Music-store-database-PostgreSQL-Project/blob/cb410d4d40684bb3fccd9cd1d6146441613c41d6/music_store_er_diagram.png)  
+
 
 ---
 
@@ -160,12 +159,4 @@ Below is the Entity Relationship Diagram representing the schema of the music st
 - Run each section of queries step-by-step.
 - Adjust syntax if needed based on SQL dialect.
 
----
 
-## 👨‍💻 Author
-
-- [Your Name]
-
-## 📄 License
-
-- MIT
