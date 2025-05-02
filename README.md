@@ -102,7 +102,7 @@ This project explores a sample Music Store database using SQL. It answers a vari
   - Window Functions
   - Filtering & Grouping
 
----
+----
 
 ## 🗺️ ER Diagram
 
