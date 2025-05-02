@@ -80,3 +80,92 @@ Feel free to fork this project, suggest improvements, or add more advanced queri
 ## 📬 Contact
 
 For any questions or feedback, open an issue or contact me directly.
+# 🎵 Music Store SQL Analysis Project
+
+[![SQL](https://img.shields.io/badge/Language-SQL-blue.svg)](https://www.mysql.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()
+[![Data Source](https://img.shields.io/badge/Data-Sample%20DB-orange.svg)]()
+
+This project explores a sample Music Store database using SQL. It answers a variety of business questions ranging from basic queries to complex CTEs and aggregations.
+
+---
+
+## 📁 Project Structure
+
+- **Dataset**: Includes tables such as `employee`, `invoice`, `customer`, `track`, `artist`, `album`, `genre`, `invoice_line`
+- **Tools Used**: SQL (MySQL/PostgreSQL compatible)
+- **Skills Demonstrated**: 
+  - Joins
+  - Aggregations
+  - CTEs (Common Table Expressions)
+  - Window Functions
+  - Filtering & Grouping
+
+---
+
+## 🗺️ ER Diagram
+
+Below is the Entity Relationship Diagram representing the schema of the music store database:
+
+![ER Diagram](path/to/your/er-diagram.png)  
+*Replace the image path above with the actual path after uploading the ER diagram to your GitHub repo.*
+
+---
+
+## 🔍 Key Insights and Queries
+
+### 🟢 Basic Questions
+
+- **Senior-most Employee**: Finds the highest-ranking employee by job level.
+- **Top Invoice Country**: Identifies the country with the most invoice records.
+- **Top 3 Invoice Amounts**: Lists the three highest invoice totals.
+- **Top Earning City**: Shows the city with the highest revenue—ideal for promotions/festivals.
+- **Best Customer**: Determines the customer who has spent the most.
+
+### 🟡 Moderate Questions
+
+- **Rock Music Listeners**: Lists names and emails of customers who listen to Rock music, sorted by email.
+- **Top Rock Artists**: Shows top 10 artists with the most Rock songs in the catalog.
+- **Songs Above Average Length**: Lists tracks longer than the average duration in milliseconds.
+
+### 🔴 Advanced Questions (CTE / Recursive CTE)
+
+- **Customer Spend on Best-Selling Artist**: For the top-selling artist, this shows how much each customer spent.
+- **Top Genre by Country**: For every country, determines the most purchased genre (with tie handling using window functions).
+- **Top Customer per Country**: Identifies the top spender per country (includes ties).
+
+---
+
+## ⭐ Project Highlights
+
+- Used **multi-table JOINs** for comprehensive data insights.
+- Applied **CTEs and window functions** for advanced segmentation.
+- Divided logic into three levels: **Basic**, **Moderate**, and **Advanced**.
+- Ensured queries produce **clear and business-relevant results**.
+
+---
+
+## 💡 Optional Enhancements
+
+- Add **screenshots** of key query results (suggested: Basic Q4 & Q5, Advanced Q3).
+- Include an **ER Diagram** to illustrate table relationships.
+- Convert SQL outputs into visual dashboards using Power BI/Tableau.
+
+---
+
+## ▶️ How to Run
+
+- Import the SQL script into your database (MySQL/PostgreSQL).
+- Run each section of queries step-by-step.
+- Adjust syntax if needed based on SQL dialect.
+
+---
+
+## 👨‍💻 Author
+
+- [Your Name]
+
+## 📄 License
+
+- MIT
