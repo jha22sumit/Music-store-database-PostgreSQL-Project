@@ -65,5 +65,21 @@ Below is the Entity Relationship Diagram representing the schema of the music st
 - Divided logic into three levels: **Basic**, **Moderate**, and **Advanced**.
 - Ensured queries produce **clear and business-relevant results**.
 
+- 📸 Dashboard Snapshots:
+
+![Dashboard 1](images/customer_report.png)  
+![Dashboard 2](images/transaction_report.png)
+
+---
+
+## 📥 How to Use
+
+1. Clone this repository  
+2. Import the SQL file into a local PostgreSQL/MySQL environment  
+3. Run queries incrementally to validate results  
+4. Open the `.pbix` file in Power BI Desktop to explore interactive visuals  
+5. Use filters to explore results by genre, country, and customer
+
+
 
 
