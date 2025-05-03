@@ -33,13 +33,13 @@ LIMIT 1;
 -- Q5. Who is the best customer?
 -- Identify the customer who spent the most.
 
-SELECT CONCAT(c.first_name, ' ', c.last_name) AS best_customer,
+SELECT CONCAT(c.first_name, ' ', c.last_name) AS best_customer, country,
        SUM(i.total) AS total_spent
 FROM customer c
 JOIN invoice i ON c.customer_id = i.customer_id
-GROUP BY i.customer_id, best_customer
+GROUP BY i.customer_id, best_customer,country
 ORDER BY total_spent DESC
-LIMIT 1;
+LIMIT 10;
 
 
 -- ====================================
