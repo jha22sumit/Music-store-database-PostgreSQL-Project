@@ -67,7 +67,7 @@ Below is the Entity Relationship Diagram representing the schema of the music st
 
 - 📸 Dashboard Snapshots:
 
-![Dashboard 1](https://github.com/jha22sumit/Music-store-database-PostgreSQL-Project/blob/b6e8e67e2e16acc07efd098f377502ea2e655973/Music%20store%201.png)  
+![Dashboard 1](https://github.com/jha22sumit/Music-store-database-PostgreSQL-Project/blob/0a7829758910290b0528010ac5263211a1c647d9/Dashboard%201.png)  
 ![Dashboard 2](images/transaction_report.png)
 
 ---
