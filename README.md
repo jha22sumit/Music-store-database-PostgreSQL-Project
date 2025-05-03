@@ -65,10 +65,10 @@ Below is the Entity Relationship Diagram representing the schema of the music st
 - Divided logic into three levels: **Basic**, **Moderate**, and **Advanced**.
 - Ensured queries produce **clear and business-relevant results**.
 
-- 📸 Dashboard Snapshots:
+##📸 Dashboard Snapshots:
 
 ![Dashboard 1](https://github.com/jha22sumit/Music-store-database-PostgreSQL-Project/blob/0a7829758910290b0528010ac5263211a1c647d9/Dashboard%201.png)  
-![Dashboard 2](images/transaction_report.png)
+![Dashboard 2](https://github.com/jha22sumit/Music-store-database-PostgreSQL-Project/blob/c6d47fb3b5a9a4b10481b4bb3890c9d3d84aa12d/Dashboard%202.png)
 
 ---
 
