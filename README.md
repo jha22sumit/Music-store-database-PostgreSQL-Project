@@ -84,6 +84,11 @@ Below is the Entity Relationship Diagram representing the schema of the music st
 4. Open the `.pbix` file in Power BI Desktop to explore interactive visuals  
 5. Use filters to explore results by genre, country, and customer
 
+## 📬 Contact
+Feel free to open an issue or connect for feedback and suggestions. Contributions are welcome!
+
+Let me know if you’d like this saved as a downloadable README.md file.
+
 
 
 
