@@ -15,7 +15,7 @@ This project explores a sample Music Store database using SQL. It answers a vari
 ## 📁 Project Structure
 
 - **Dataset**: Includes tables such as `employee`, `invoice`, `customer`, `track`, `artist`, `album`, `genre`, `invoice_line`
-- **Tools Used**: SQL (MySQL/PostgreSQL compatible)
+- **Tools Used**: SQL (MySQL/PostgreSQL compatible)/POWERBI
 - **Skills Demonstrated**: 
   - Joins
   - Aggregations
